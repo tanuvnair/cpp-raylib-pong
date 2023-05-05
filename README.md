@@ -1,6 +1,6 @@
 # Pong game
 
-I made this pong game in C++ using the rayLib library.
+Pong game in C++ using the rayLib library.
 
 # Screenshots
 <img src="pong-screenshot-1.png">
